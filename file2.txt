@@ -1,1 +1,3 @@
 file2 ini ditambahkan dari local repo
+
+Line ini ditambahkan dari remote repo
